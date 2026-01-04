@@ -1,8 +1,5 @@
 # Trying-to-learn-opengl-c
 <html>
-  <head>
-    <title>My attempt trying to learn game devlopment using c, c++|Arnav Sharma
-  </head>
       <body>
         <pre>
           So,
